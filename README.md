@@ -8,9 +8,9 @@ Las user personas se crean de los datos que surgen de la fase de investigación.
 
 Como indica The Startup, las personas deberían ser capaces de responder tres preguntas básicas.
 
-¿Quién usará el producto?
-¿Sus necesidades y comportamientos serán diferentes?
-¿Qué comportamientos y entornos deben ser considerados?
+* ¿Quién usará el producto?
+* ¿Sus necesidades y comportamientos serán diferentes?
+* ¿Qué comportamientos y entornos deben ser considerados?
 
 Fuente: <https://medium.com/swlh/user-personas-bdcc466c5c5c>
 
